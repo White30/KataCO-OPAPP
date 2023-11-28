@@ -469,7 +469,7 @@
       "StyleName": "defaultButtonStyle",
       "Type": "ControlInfo"
     },
-    "Button5": {
+    "Button6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Text",
@@ -517,8 +517,8 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Button5",
-      "ParentIndex": 0,
+      "Name": "Button6",
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4318,7 +4318,7 @@
       "LayoutName": "vertical",
       "MetaDataIDKey": "%HostedFormContainer.ID%",
       "Name": "SharePointForm1",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
