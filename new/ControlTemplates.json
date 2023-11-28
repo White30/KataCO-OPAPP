@@ -13,19 +13,19 @@
     "OverridableProperties": {},
     "Version": "1.0"
   },
-  "attachments": {
+  "button": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
-    "Id": "http://microsoft.com/appmagic/attachments",
+    "Id": "http://microsoft.com/appmagic/button",
     "IsComponentTemplate": false,
     "IsCustomGroupControlTemplate": false,
     "IsPcfControl": false,
     "IsPremiumPcfControl": false,
     "IsWidgetTemplate": true,
     "LastModifiedTimestamp": "0",
-    "Name": "attachments",
+    "Name": "button",
     "OverridableProperties": {},
-    "Version": "2.3.0"
+    "Version": "2.2.0"
   },
   "form": {
     "CustomGroupControlTemplateName": "",
